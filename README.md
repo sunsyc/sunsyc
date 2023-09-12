@@ -7,7 +7,7 @@ Software Developer and Lifetime Student
 Passionate Full Stack Web Developer dedicated to crafting seamless, beautiful, and innovative websites. My journey began at The Ohio State University, where I earned a Bachelor of Science in Computer and Information ScienceI have experience with various programming languages and specifically web technologies. I am looking for hire now.
 
 * 🌍  I'm based in Los Angeles, California
-* 🖥️  See my portfolio at [portfolio is currently working](http://www.google.com/maps/@35.7040744,139.5577317,3a,75y,289.6h,87.01t,0.72r/data=!3m6!1e1!3m4!1sgT28ssf0BB2LxZ63JNcL1w!2e0!7i13312!8i6656?entry=ttu)
+* 🖥️  See my portfolio at [My Portfolio](http://sunsyc.github.io/)
 * ✉️  You can contact me at [sunsunsyc@gmail.com](mailto:sunsunsyc@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
